@@ -30,7 +30,7 @@ Welcome to my journey of mastering Low-Level Design (LLD). This README documents
 ### SOLID Principles
 #### Single Responsibility Principle (SRP)
 - **Definition**: A class should have one and only one reason to change.
-- **Example**: [Refactored Book Class](link-to-example)
+- **Example**: [Refactored Book Class](https://github.com/srivatsan-droid/Low-Level-Design/blob/c5c08c9fb679223e8c35a0da3390be3edef296ef/bookSDesign.java)
 
 ---
 
