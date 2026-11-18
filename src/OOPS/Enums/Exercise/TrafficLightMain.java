@@ -1,4 +1,4 @@
-package OOPS.ClassObjects.Exercise;
+package OOPS.Enums.Exercise;
 
 enum Color {
     RED(30),
