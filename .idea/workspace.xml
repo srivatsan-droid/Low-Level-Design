@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de99011d-6d84-4bc5-a215-5df6b75c121a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Enums/Exercise/TrafficLightMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Enums/Exercise/TrafficLightMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankAccountMain.executor": "Run",
     "Application.CarMain.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.DemoMultiThread.executor": "Run",
     "Application.DemoSingleThread.executor": "Run",
     "Application.LibraryBook.executor": "Run",
